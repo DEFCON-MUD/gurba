@@ -4302,3 +4302,14 @@ enter: /domains/core/rooms/city/x60y-10z0.c:/domains/core/monsters/billy.c
 enter: /domains/required/rooms/start.c:/domains/dungeon/objects/sign.c
 enter: /domains/core/rooms/city/x40y-90z0.c:/domains/core/monsters/magnus.c
 enter: /domains/core/rooms/city/x40y-90z0.c:/domains/core/monsters/magnus.c
+enter: /domains/core/rooms/city/x40y-90z0.c:/domains/core/monsters/magnus.c
+enter: /sys/obj/player.c:/domains/core/objects/shop/weapon/sword20.c
+enter: /sys/obj/player.c:/domains/core/objects/shop/armour/boots20.c
+enter: /sys/obj/player.c:/domains/core/objects/shop/weapon/sword20.c
+enter: /sys/obj/player.c:/domains/core/objects/shop/armour/ring20.c
+enter: /wiz/steve/rooms/workroom.c:/domains/required/monsters/rat.c
+enter: /wiz/steve/rooms/workroom.c:/domains/required/objects/chest.c
+enter: /domains/required/objects/chest.c:/domains/required/objects/large_rock.c
+enter: /domains/required/objects/chest.c:/domains/required/objects/small_rock.c
+enter: /wiz/steve/rooms/workroom.c:/domains/required/objects/helmet.c
+enter: /wiz/steve/rooms/workroom.c:/domains/required/objects/short_sword.c
